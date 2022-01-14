@@ -12,8 +12,8 @@ from selenium.common.exceptions import ElementClickInterceptedException as nocli
 options = webdriver.ChromeOptions()
 
 URL = 'https://www.instagram.com'
-user_email = 'ryanchimichanga'
-user_password = 'C0mputer1998'
+user_email = 'a' #put your email in here
+user_password = 'a' #put your password in here
 
 # Register the driver
 
